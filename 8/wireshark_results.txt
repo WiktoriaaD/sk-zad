@@ -1,0 +1,18 @@
+Ethernet II, Src: ASIXElectron_0c:5d:42 (f8:e4:3b:0c:5d:42), Dst: Dell_12:07:32 (cc:96:e5:12:07:32)
+    Destination: Dell_12:07:32 (cc:96:e5:12:07:32)
+    Source: ASIXElectron_0c:5d:42 (f8:e4:3b:0c:5d:42)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 4]
+
+
+Ethernet II, Src: Dell_0c:8e:1f (cc:96:e5:0c:8e:1f), Dst: Dell_12:10:95 (cc:96:e5:12:10:95)
+    Destination: Dell_12:10:95 (cc:96:e5:12:10:95)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: Dell_0c:8e:1f (cc:96:e5:0c:8e:1f)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 17]
