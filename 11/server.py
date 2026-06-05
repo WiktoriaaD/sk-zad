@@ -12,7 +12,7 @@ serwer.bind((IP, PORT))
 
 users = {}
 
-print(f"Serweru uruchomiony i słucha na porcie {PORT}")
+print(f"Serwer uruchomiony i słucha na porcie {PORT}")
 
 #petla by serwer ciagle dzialal
 while True:
